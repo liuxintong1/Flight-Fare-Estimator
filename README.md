@@ -1,5 +1,9 @@
 # Flight Fare Estimator
 
+## ARTIFACT
+
+-  [Deployed Application URL] (<https://liuxintong1-flight-fare-estimator-flight-estimator-a5mxfd.streamlit.app/>)
+
 ## TL;DR
 
 - **Problem:** Existing flight pricing tools focus on **current and historical fares** but lack **forward-looking price estimates**, making long-term travel planning difficult.
@@ -18,7 +22,7 @@ To better reflect real-world travel scenarios, the application also supports **i
 
 Backed by a **custom-built data processing layer**—including **CSV parsing**, **row-level filtering**, **group-by operations**, and **join logic**—and exposed through an **interactive FAQ-style interface**, the project demonstrates both **data engineering fundamentals** and **applied analytical modeling** for understanding **historical and future flight fare dynamics**.
 
-# Running the Application
+# Running the Application Locally
 
 ## Prerequisites
 
